@@ -189,7 +189,7 @@ namespace RenderCore { namespace Assets
             class ParamBoxDescriptions
             {
             public:
-                void Add(unsigned index, const ParameterBox& box) {}
+                void Add(SharedParameterBox index, const ParameterBox& box) {}
             };
         #endif
 
