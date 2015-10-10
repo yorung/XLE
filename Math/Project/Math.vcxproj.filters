@@ -9,6 +9,7 @@
     <ClCompile Include="..\ProjectionMath.cpp" />
     <ClCompile Include="..\Transformations.cpp" />
     <ClCompile Include="..\PoissonSolver.cpp" />
+    <ClCompile Include="..\RegularNumberField.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\EigenVector.h" />
@@ -23,5 +24,6 @@
     <ClInclude Include="..\Vector.h" />
     <ClInclude Include="..\PoissonSolver.h" />
     <ClInclude Include="..\PoissonSolverDetail.h" />
+    <ClInclude Include="..\RegularNumberField.h" />
   </ItemGroup>
 </Project>
